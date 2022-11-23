@@ -1,0 +1,63 @@
+.home-bg-container {
+    background-image: url("https://restaurantclicks.com/wp-content/uploads/2021/10/vegetarian-indian-dishes.jpg");
+    background-size: cover;
+    padding: 20px;
+}
+
+.heading-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.heading-container h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.heading-container .search-box {
+    width: 50%;
+    align-self: center;
+    padding: 16px;
+    border: none;
+    border-radius: 30px;
+}
+
+.recipe-display-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    flex-wrap: wrap;  
+}
+
+.recipe-display-container .card {
+    width: fit-content;
+    margin: 20px;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 2px 3px 25px 2px dimgrey;
+
+}
+
+.recipe-display-container .card .video{
+    border: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.recipe-display-container .card p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+
+.recipe-display-container .card .tagline {
+    font-family: cursive;
+    color: rgb(121, 51, 11);
+    font-weight: 800;
+    font-size: 16px;
+}

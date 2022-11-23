@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name" : "Kuska Biryani",
+        "video" : "https://www.youtube.com/embed/MEKXgNSeOC8?controls=0"
+    },
+    {
+        "id": 2,
+        "name" : "Paneer Bhatura",
+        "video" : "https://www.youtube.com/embed/18rgwCPBERw?controls=0"
+    },
+    {
+        "id": 3,
+        "name" : "Hyderabadi Dum Chai",
+        "video" : "https://www.youtube.com/embed/UY0dBNCR6eA?controls=0"
+    },
+    {
+        "id": 4,
+        "name" : "Aloo Kulcha",
+        "video" : "https://www.youtube.com/embed/NZxDFwKblp8?controls=0"
+    },
+
+    {
+        "id": 5,
+        "name" : "Butter Chicken Kulcha",
+        "video" : "https://www.youtube.com/embed/QDsWO3U6qeU?controls=0"
+    },
+
+    {
+        "id": 6,
+        "name" : "Jackfruit And Spinach Sambar",
+        "video" : "https://www.youtube.com/embed/qvcFU5Qy8V8?controls=0"
+    },
+
+    {
+        "id": 7,
+        "name" : "Thandai Macaron",
+        "video" : "https://www.youtube.com/embed/FWM4GqJGlgI?controls=0"
+    },
+
+    {
+        "id": 8,
+        "name" : "Malai Gujiya",
+        "video" : "https://www.youtube.com/embed/UkJS2XrGDoQ?controls=0"
+    },
+
+    {
+        "id": 9,
+        "name" : "Chocolate And Cereal Ki Gujiya",
+        "video" : "https://www.youtube.com/embed/XxP-JP8XQW4?controls=0"
+    }
+   
+ ]

@@ -1,0 +1,30 @@
+.navigation-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    }
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+    font-weight: 800;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
